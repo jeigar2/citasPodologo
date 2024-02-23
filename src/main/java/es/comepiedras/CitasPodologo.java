@@ -1,8 +1,8 @@
 package es.comepiedras;
 
 import es.comepiedras.config.AppConfing;
-import es.comepiedras.contrador.CitaControlador;
-import es.comepiedras.contrador.PacienteControlador;
+import es.comepiedras.controlador.CitaControlador;
+import es.comepiedras.controlador.PacienteControlador;
 import es.comepiedras.servicio.CitaServicio;
 import es.comepiedras.servicio.PacienteServicio;
 import io.javalin.Javalin;

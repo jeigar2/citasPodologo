@@ -1,4 +1,4 @@
-package es.comepiedras.contrador;
+package es.comepiedras.controlador;
 
 import es.comepiedras.dominio.Paciente;
 import es.comepiedras.servicio.PacienteServicio;
