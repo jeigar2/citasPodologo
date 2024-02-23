@@ -1,0 +1,8 @@
+# Directorio de compilación
+/target/
+
+# Archivos de configuración local
+.idea/
+*.iml
+*.iws
+*.ipr
